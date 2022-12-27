@@ -11,6 +11,7 @@
     "sass": "^1.57.1"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "echo 1",
+    "build:css": "echo 1"
   }
 }
